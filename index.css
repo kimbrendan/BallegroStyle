@@ -1,0 +1,57 @@
+
+body {
+  color: black;
+  background-color: #F5F5F5  ;
+  font-family: 'monospace', sans-serif;
+}
+
+
+header {
+  background-color:#F5F5F5  ;
+  height: 80px;
+  width: 500px;
+  padding: 20px;
+}
+
+nav  {
+    background-color: #F5F5F5  ;
+  }
+  a:hover {
+    color: black;
+         }
+  a:visited {
+    color: grey;
+               }
+
+
+main {
+      background-color: #F5F5F5  ;
+      border: 10px dashed #F5F5F5  ;
+      padding: 20px 20px 10px 20px;
+      margin: auto;
+      width: 70%;
+      height: 650px;
+      text-align: left;
+      letter-spacing: .25px;
+      line-height: 30px;
+    }
+
+    .information {
+      background-color: #ED82F4;
+    }
+
+    .what {
+      background-color: black;
+      padding: 5px 5px 5px 5px;
+    }
+
+    .why {
+      background-color: black;
+      padding: 5px 5px 5px 5px;
+      margin: 55px 20px 10px 0px;
+    }
+
+    .image1 {
+      height: 425px;
+      width: 875px;
+    }
